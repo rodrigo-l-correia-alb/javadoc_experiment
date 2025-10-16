@@ -1,0 +1,17 @@
+com.alticelabs.ccp.phr.service
+com.alticelabs.ccp.phr.service.bl
+com.alticelabs.ccp.phr.service.bl.aggregates
+com.alticelabs.ccp.phr.service.bl.cacheObjects
+com.alticelabs.ccp.phr.service.bl.event
+com.alticelabs.ccp.phr.service.bl.model.entity
+com.alticelabs.ccp.phr.service.bl.model.event
+com.alticelabs.ccp.phr.service.bl.notification
+com.alticelabs.ccp.phr.service.bl.oms
+com.alticelabs.ccp.phr.service.bl.service
+com.alticelabs.ccp.phr.service.bl.utils
+com.alticelabs.ccp.phr.service.bl.utils.http
+com.alticelabs.ccp.phr.service.configuration
+com.alticelabs.ccp.phr.service.configurations
+com.alticelabs.ccp.phr.service.flow
+com.alticelabs.ccp.phr.service.pm
+com.alticelabs.ccp.phr.service.pm.internalRequest
